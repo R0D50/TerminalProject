@@ -1,2 +1,2 @@
 # TerminalProject
-Members: Roderick Jacobs, 
+Members: Roderick Jacobs, Daniel Austin, 
